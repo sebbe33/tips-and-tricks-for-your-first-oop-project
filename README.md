@@ -3,6 +3,8 @@ This guide will take you through some concepts that you need to be familiar with
 
 All of the material is described in the [Wiki](https://github.com/sebbe33/tips-and-tricks-for-your-first-oop-project/wiki). Browse through it and see if you can find some topic that you find interesting. The articles in the Wiki will link you to code examples where applicable. 
 
+_While reading this, please know that this is just one way of doing things. There are thounsands and thousands of practices out there, some are better than others, but there is often no 'right way' to do things._
+
 ## Background
 For some years, students of the [Object-Oriented Programming Project course (TDA367)](http://www.cse.chalmers.se/edu/course/tda367/) tend to ask similar questions regarding a few specific topics. As supervisors of that course, we decided it could be a good idea to gather those questions and write about those topics in an open format. Furthermore, there are certain pitfalls which nearly all students tend to run into. We address some of these topics here as well. 
 
